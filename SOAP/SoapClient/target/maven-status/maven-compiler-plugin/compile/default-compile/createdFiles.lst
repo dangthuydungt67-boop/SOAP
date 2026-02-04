@@ -1,0 +1,8 @@
+org\example\client\GuiThongTinResponse.class
+org\example\client\package-info.class
+org\example\client\UserWebServiceService.class
+org\example\Main.class
+org\example\RunClient.class
+org\example\client\GuiThongTin.class
+org\example\client\ObjectFactory.class
+org\example\client\UserWebService.class
